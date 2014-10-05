@@ -1,0 +1,13 @@
+Please mkdir bin and mkdir old.
+old will house the past codes of past contests.
+
+At the end of a contest, you should clean up by executing the save script:
+sh save.sh <name_of_contest>
+
+It will create a folder with the contest name inside old repository,
+move everything there, and refresh all cc files.
+
+Please name input and output files as .in and .out, respectively.
+
+Have a good day.
+
